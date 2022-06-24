@@ -1,12 +1,8 @@
-30 Days of C challenge
-
-From Udemy course
-[Link](https://www.udemy.com/share/101uQe3@ht6js9UtPXMfsfnCbYta4A3ZORQCKY6OtEbPQF2faZnm1QDaN6f7vDlQ-5Le7xZfTA==/)
-
-WiLL be posting updates every day
+# 30 Days of C challenge
 
 
-Powered By [Finne](https://i.ibb.co/4YfnnNv/1651860367666.jpg)
+
+
 
 
 
